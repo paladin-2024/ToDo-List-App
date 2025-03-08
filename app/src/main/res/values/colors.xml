@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cerulean">#00ABCD</color>
+    <color name="catskill_white">#F6F9F8</color>
+    <color name="gray">#707070</color>
+    <color name="priority">#F2F9EF</color>
+    <color name="task">#F1F1F1</color>
+
+    <color name="green">#20FF96</color>
+    <color name="green_light">#C7FFE3</color>
+    <color name="green_dark">#09C466</color>
+
+    <color name="blue">#77A0FF</color>
+    <color name="blue_light">#D5E1FF</color>
+    <color name="blue_dark">#2454C5</color>
+
+    <color name="red">#ff8585</color>
+    <color name="red_light">#ffd9d9</color>
+    <color name="red_dark">#ff8585</color>
+    
+    <color name="black"
+
+</resources>
